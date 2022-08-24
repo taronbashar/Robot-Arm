@@ -6,6 +6,7 @@ Here is a CAD model of the base plate with the three different areas:
 <img width="500" alt="Screen Shot 2021-04-07 at 3 19 12 PM" src="https://user-images.githubusercontent.com/111838744/186303891-691afa1d-eba7-4d1a-a6de-2623f1c12e1b.png"> <img width="500" alt="Screen Shot 2021-04-07 at 3 19 07 PM" src="https://user-images.githubusercontent.com/111838744/186303897-d34a3c5c-2a5b-4351-8116-77aaea1a775b.png">
 
 Before running the script, the robot arm was manually calibrated for the placement of the game pieces at different height levels:
+
 <img width="480" alt="Screen Shot 2021-04-28 at 8 22 42 PM" src="https://user-images.githubusercontent.com/111838744/186304163-1464e416-a1f2-4e50-899a-63e5f55a935f.png">
 
 Here, is a demo of the robot arm reversing the stacking order using two game pieces:
