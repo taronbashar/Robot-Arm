@@ -8,15 +8,6 @@ import meArm
 #Start of camera use
 #place camera 21 inches back
 ####################
-from picamera import PiCamera
-from time import sleep
-
-camera = PiCamera()
-
-camera.start_preview()
-sleep(2)
-camera.stop_preview()
-camera.close()
 
 R1=''
 R2=''
